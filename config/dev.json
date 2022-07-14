@@ -1,0 +1,35 @@
+{
+  "program" : "G17ksqA9jiLUvEAtQg5B4kGJGAPCC9EtkgPP9w28JFRV",
+  "metadata_program_id" : "metaqbxxUerdq28cj1RbAWkYQm3ybzjb6a8bt518x1s",
+  "nft_type" : "dev_nft",
+  "max_supply" : 200,
+  "fee_point" : 5,
+  "creator" : "93wEvXfWsjApJ2GJugNFUNFC6cPjbX7YAwDDuTodFkrB",
+  "prefix" : "solchick_nft_",
+  "token_name" : "SOLCHICK_NFT",
+  "symbol" : "SOLITEM",
+  "uri" : "https://ipfs.io/ipfs/QmSnzvnhG4envMQrJG9Efu85yTYzpf1muFmvZA3Qz2g289",
+  "start_date" : "2022-06-10",
+  "end_date" : "2022-07-30",
+  "tokens" : [
+    {
+      "token_type" : "chicks_dev",
+      "price" : 10,
+      "token_mint" : "FUnRfJAJiTtpSGP9uP5RtFm4QPsYUPTVgSMoYrgVyNzQ",
+      "decimal" : 9,
+      "need_init" : true
+    },
+    {
+      "token_type" : "usdc",
+      "price" : 20,
+      "token_mint" : "Gh9ZwEmdLJ8DscKNTkTqPbNwLNNBjuSzaG9Vp2KGtKJr",
+      "decimal" : 6,
+      "need_init" : true
+    }
+  ],
+  "presale_user_per" : 5,
+  "public_sale_user_per" : 10,
+  "supabase_url" : "",
+  "supabase_anon_key" : "",
+  "whitelist" : []
+}
